@@ -1,5 +1,5 @@
 # Node_Js_Practice
-
-<div align="center">
+hiii
+<div align="left">
     <img src="C:\Users\sujaany\Pictures\Screenshots\1.jpg" width="400px"</img> 
 </div>
