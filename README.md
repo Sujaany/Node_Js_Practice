@@ -1,3 +1,11 @@
 # Node_Js_Practice
 
-![mypic](https://github.com/Sujaany/Node_Js_Practice/blob/master/img/20181014_092459.jpg)
+#Guvi Sharing Node.js practices 
+https://www.youtube.com/watch?v=SLJZQrq4P-o&list=PL_9uM5be2amrlVO4DEgthXc4Xzd7GvNfX
+
+npm install express -s
+npm search middleware
+npm install nodemon
+curl -X GET localhost:8080  --> View result in cmd
+
+
